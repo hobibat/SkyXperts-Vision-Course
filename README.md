@@ -89,6 +89,15 @@
 - [Convolutional Neural Networks (CNNs) – Explained](https://www.youtube.com/watch?v=YGILT182T6w)
 - [How CNNs Work (Convolutional Neural Nets)](https://www.youtube.com/watch?v=3bo8S1pAbqk)
 
+**Playlists**
+
+- [Feature Detection for Computer Vision](https://www.youtube.com/playlist?list=PLSK7NtBWwmpR8VfRwSLrflmmthToXzTe_)
+- [Computer Vision: Filters (Blur, Edge Detection etc)](https://www.youtube.com/playlist?list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF)
+- [Neural Networks](https://www.youtube.com/playlist?list=PL2zRqk16wsdo3VJmrusPU6xXHk37RuKzi)
+- [Edge Detection | Boundary Detection | SIFT Detector](https://www.youtube.com/playlist?list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cylrhx)
+- [Image Processing I | Image Processing II](https://www.youtube.com/playlist?list=PL2zRqk16wsdp8KbDfHKvPYNGF2L-zQASc)
+- [Image Stitching | Face Detection](https://www.youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu)
+
 ### ✍️ Articles
 
 - [OpenCV Tutorial: A Guide to Learn OpenCV (PyImageSearch)](https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
