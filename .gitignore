@@ -7,3 +7,7 @@
 *.h5
 *.pb
 __pycache__/
+
+# local datasets and YOLO training output (do not upload)
+datasets/
+runs/
